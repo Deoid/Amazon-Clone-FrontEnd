@@ -6,7 +6,7 @@ Welcome to my Amazon.com clone project! This project is built entirely using HTM
 
 ## Preview
 
-![Amazon Clone Screenshot](https://via.placeholder.com/800x400.png?text=Amazon+Clone+Screenshot)
+![Amazon Clone Screenshot](https://www.amazon.com/)
 
 ## Features
 

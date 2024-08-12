@@ -1,5 +1,4 @@
-# Amazon-Clone-FrontEnd
-Amazon Clone 
+
 
 # Amazon Clone Project
 
@@ -29,5 +28,5 @@ Check out the live demo [here](https://your-live-demo-link.com).
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/amazon-clone.git
+   https://github.com/Deoid/Amazon-Clone-FrontEnd
 

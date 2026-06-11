@@ -30,3 +30,6 @@ Check out the live demo [here](https://your-live-demo-link.com).
    ```bash
    https://github.com/Deoid/Amazon-Clone-FrontEnd
 
+## Changes for DSOL practical
+
+1. Hello
